@@ -32,7 +32,7 @@ const COMPANY_DATA = {
         name: '한국형 효과음원 구축 사업',
         year: '2021~2022',
         category: 'Sound Library',
-        thumb: 'assets/images/ksoundlibrary.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/ksoundlibrary.jpg',
         intro: '미디어 콘텐츠 후반제작에 즉시 활용 가능한 한국형 효과음원을 개발하는 목표를 가지고 진행한 사업',
         output: [
           '국가지정무형유산·전통 소리 관련 4000건 효과음원 제작',
@@ -44,7 +44,7 @@ const COMPANY_DATA = {
         name: '회사 IP 라이브러리 제작',
         year: '2023',
         category: 'Sound Library',
-        thumb: 'assets/images/ultrapix.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/ultrapix.png',
         intro: 'XR 콘텐츠에 활용 가능한 효과음원과 영상 콘텐츠를 개발하는 목표를 가지고 진행한 사업',
         output: [
           '자연, 공장 등의 환경, 폴리 사운드 카테고리 7종 제작',
@@ -56,7 +56,7 @@ const COMPANY_DATA = {
         name: '오디오북 <점이지대>',
         year: '2023',
         category: 'Audio Book',
-        thumb: 'assets/images/place.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/place.jpg',
         intro: '전북의 각 지역을 현대 문학으로 엮어 제작한 오디오북 제작 사업',
         output: [
           '바이노럴 포맷 오디오북 9편 (국내 E-Book 사이트 게시)',
@@ -68,7 +68,7 @@ const COMPANY_DATA = {
         name: '오디오북 <구운몽>',
         year: '2022',
         category: 'Audio Book',
-        thumb: 'assets/images/9clouddream.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/9clouddream.png',
         intro: '김만중 원작 <구운몽>을 각색한 오디오북 제작 사업',
         output: [
           '바이노럴 포맷 오디오북 6챕터 제작 (국내 E-Book 사이트 게시)',
@@ -80,7 +80,7 @@ const COMPANY_DATA = {
         name: '오디오북 <반태산 귀신사냥꾼>',
         year: '2021',
         category: 'Audio Book',
-        thumb: 'assets/images/ghosthunter.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/ghosthunter.png',
         intro: '한국형 효과음원 구축 사업의 일환으로 효과음원을 활용한 오디오북 제작한 사업',
         output: [
           '바이노럴 포맷 오디오북 2권 제작 (국내 E-Book 사이트 게시)',
@@ -92,7 +92,7 @@ const COMPANY_DATA = {
         name: '공기관 미디어아트 전시',
         year: '2021',
         category: 'Media Art',
-        thumb: 'assets/images/LX.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/LX.png',
         intro: '한국국토정보공사의 비전을 담은 전시관을 구축한 사업',
         output: [
           'VR콘텐츠 2편',
@@ -104,7 +104,7 @@ const COMPANY_DATA = {
         name: '지역 문화 콘텐츠 재생 전시',
         year: '2021',
         category: 'Exhibition',
-        thumb: 'assets/images/wavethepalbok.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/wavethepalbok.jpg',
         intro: '노후된 지역 산업 단지에 문화 콘텐츠를 제작을 목표로 전시관 구축',
         output: [
           '40분 실감전시영상 사운드 디자인 (9.1.6ch)',
@@ -116,7 +116,7 @@ const COMPANY_DATA = {
         name: '인공지능 콘텐츠 미디어아트 전시',
         year: '2021',
         category: 'Exhibition',
-        thumb: 'assets/images/gwangju.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/gwangju.jpg',
         intro: '광주의 100년 역사를 학습한 AI의 데이터와 제너러티브 아트를 결합한 결과물을 전시 콘텐츠로 제작',
         output: [
           '전시 영상 2편 사운드 디자인',
@@ -128,7 +128,7 @@ const COMPANY_DATA = {
         name: '지역 특성 미디어아트 콘텐츠 전시',
         year: '2021',
         category: 'Exhibition',
-        thumb: 'assets/images/Mokpo.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/Mokpo.jpg',
         intro: '목포의 문화, 맛, 근대건축공간에 대한 영상 콘텐츠를 제작',
         output: [
           '영상 콘텐츠 3종',
@@ -140,7 +140,7 @@ const COMPANY_DATA = {
         name: '지역 IP 미디어아트 전시',
         year: '2021',
         category: 'Exhibition',
-        thumb: 'assets/images/Godaedo.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/Godaedo.jpg',
         intro: '고대도의 미션아일랜드 사업이 진행되며 전시공간을 구축',
         output: [
           '미디어아트 영상 3건 (7.1.4ch)',
@@ -152,7 +152,7 @@ const COMPANY_DATA = {
         name: '기업 B2B 실감콘텐츠 제작',
         year: '2023',
         category: 'Interactive',
-        thumb: 'assets/images/hyundai.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/hyundai.png',
         intro: '현대 글로비스의 실감형 브랜드 필름의 사운드 디자인을 진행',
         output: [
           '실감형 미디어 영상 2편',
@@ -164,7 +164,7 @@ const COMPANY_DATA = {
         name: '아시아 문화 다큐멘터리',
         year: '2021~2022',
         category: 'Documentary',
-        thumb: 'assets/images/ACC.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/ACC.jpg',
         intro: '국립 아시아문화전당에서 주관하는 아시아문화 아카이브 구축 사업',
         output: [
           '2021년 총 13편',
@@ -177,7 +177,7 @@ const COMPANY_DATA = {
         name: '2023 우리 역사넷 교육영상',
         year: '2023',
         category: 'Education',
-        thumb: 'assets/images/history.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/history.png',
         intro: '우리 역사넷 교육영상 제작',
         output: [
           '다큐멘터리 6편 제작 (농악, 읍성, 질그릇, 탱화, 해녀, 혼례)',
@@ -214,7 +214,7 @@ const COMPANY_DATA = {
         name: '런닝맨',
         year: '2019',
         category: '예능',
-        thumb: 'assets/images/Running.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/Running.jpg',
         intro: 'SBS 예능 런닝맨 동시녹음 참여 작업',
         output: ['런닝맨 2회차 촬영분 동시녹음'],
         role: '출연진 마이크 관리 및 레코더 오퍼레이팅'
@@ -223,7 +223,7 @@ const COMPANY_DATA = {
         name: '범인은 바로 너',
         year: '2019',
         category: '예능',
-        thumb: 'assets/images/yout.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/yout.png',
         intro: '넷플릭스 오리지널 예능 동시녹음 참여 작업',
         output: ['범인은 바로 너 시즌 3 8화'],
         role: '출연진 마이크 관리 및 레코더 오퍼레이팅'
@@ -232,7 +232,7 @@ const COMPANY_DATA = {
         name: '세븐틴 자체 콘텐츠',
         year: '2019',
         category: 'Content',
-        thumb: 'assets/images/seventeen.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/seventeen.jpg',
         intro: '아티스트 자체 채널 콘텐츠 현장 녹음',
         output: ['고잉세븐틴 2019 EP.21'],
         role: '출연진 마이크 관리 및 레코더 오퍼레이팅'
@@ -241,7 +241,7 @@ const COMPANY_DATA = {
         name: 'NCT 자체 콘텐츠',
         year: '2019',
         category: '예능',
-        thumb: 'assets/images/NCT.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/NCT.png',
         intro: '아티스트 자체 채널 콘텐츠 현장 녹음',
         output: ['자체콘텐츠 2편'],
         role: '출연진 마이크 관리 및 레코더 오퍼레이팅'
@@ -250,7 +250,7 @@ const COMPANY_DATA = {
         name: '우리 다시 사랑할 수 있을까',
         year: '2019',
         category: '예능',
-        thumb: 'assets/images/meetagain.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/meetagain.jpg',
         intro: 'MBN 예능 동시녹음 참여',
         output: ['우리 다시 사랑할 수 있을까 시즌1, 시즌3'],
         role: '출연진 마이크 관리 및 레코더 오퍼레이팅'
@@ -259,7 +259,7 @@ const COMPANY_DATA = {
         name: '쏭개팅',
         year: '2020',
         category: '예능',
-        thumb: 'assets/images/song.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/song.png',
         intro: '웹예능 동시녹음 참여 작업',
         output: ['다수의 컨텐츠 참여'],
         role: '출연진 마이크 관리 및 레코더 오퍼레이팅\n현장 라이브 셋팅'
@@ -268,7 +268,7 @@ const COMPANY_DATA = {
         name: '아이돌 예병대 캠프',
         year: '2020',
         category: '예능',
-        thumb: 'assets/images/idol.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/idol.jpg',
         intro: 'Seezn 자체컨텐츠 웹예능 동시녹음 작업',
         output: ['예병대캠프 4기 라비, 태민 편 촬영'],
         role: '출연진 마이크 관리 및 레코더 오퍼레이팅'
@@ -277,7 +277,7 @@ const COMPANY_DATA = {
         name: '왓더펀',
         year: '2020',
         category: 'Content',
-        thumb: 'assets/images/wtf.png',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/wtf.png',
         intro: '웹예능 동시녹음 참여',
         output: ['왓더펀 공포특집 납치된 신동훈을 구해라 편 촬영'],
         role: '출연진 마이크 관리 및 레코더 오퍼레이팅'
@@ -286,7 +286,7 @@ const COMPANY_DATA = {
         name: '사장님 귀는 당나귀 귀',
         year: '2020',
         category: '예능',
-        thumb: 'assets/images/donkey.jpg',
+        thumb: 'https://dbsgpfl9777-cmd.github.io/hrsoundportfolio/assets/images/donkey.jpg',
         intro: 'KBS 예능 동시녹음 참여',
         output: ['김기태 감독편 촬영'],
         role: '출연진 마이크 관리 및 레코더 오퍼레이팅'
